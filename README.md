@@ -16,14 +16,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me :</h3>
-
-###
-
-<h4 style="color: #2f7bc1;" align="center">I'm Hussien from Egypt</h4>
-
-###
-
 <p align="left"></p>
 
 ###
