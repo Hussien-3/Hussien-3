@@ -52,12 +52,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Hussien-3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+    src="https://github-readme-stats.vercel.app/api?username=Hussien-3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1](https://github-readme-streak-stats.herokuapp.com/?user=Hussien-3&theme=radical"
     height="150"
     alt="stats graph"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Hussien-3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Hussien-3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussien-3&layout=compact&theme=radical"
     height="150"
     alt="languages graph"
   />
