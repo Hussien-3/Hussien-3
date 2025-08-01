@@ -53,8 +53,6 @@
 <div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Hussien-3&theme=radical"
-    height="150"
-    alt="stats graph"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussien-3&layout=compact&theme=radical"
