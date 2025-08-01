@@ -57,7 +57,7 @@
     alt="stats graph"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Hussien-3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussien-3&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussien-3&layout=compact&theme=radical"
     height="150"
     alt="languages graph"
   />
