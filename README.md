@@ -46,16 +46,6 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Hussien-3&theme=radical"
-  />
-</div>
-
 <h3 align="left">👨‍💻 Most Used Languages :</h3>
 
 ###
