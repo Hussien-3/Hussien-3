@@ -54,14 +54,9 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Hussien-3&theme=radical"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussien-3&layout=compact&theme=radical"
-    height="150"
-    alt="languages graph"
-  />
 </div>
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">👨‍💻 Most Used Languages :</h3>
 
 ###
 
